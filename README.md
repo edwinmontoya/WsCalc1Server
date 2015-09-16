@@ -14,4 +14,17 @@
 
 # http://demo.dis.eafit.edu.co/WsCalc1Server/wscalc1?wsdl
 
+# Una vez descarge el proyecto desde github, puede hacer el build del proyecto directamente
+# desde "ant".
+
+# Tener en cuenta que la maquina debe tener ant instalado, 
+# la variable de ambiente ANT_HOME configurada, y el PATH 
+
+# build:
+# $ pwd
+# ./WsCalc1Server
+# $ ant
+
+
+
 
